@@ -1,6 +1,6 @@
 # Practical 2: GNNs for 3D Molecular Data — Invariant & Equivariant GNNs
 
-> **Course:** Geometric Deep Learning  
+> **Course:** Graph Representation Learning  
 > **Focus:** Graph Neural Networks (GNNs) for molecular property prediction with 3D geometric information  
 > **Framework:** PyTorch Geometric (PyG)  
 > **Dataset:** QM9 (Quantum Mechanics dataset 9)
